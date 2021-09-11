@@ -42,6 +42,6 @@
 
 
 
-![地图编辑](img/1.png)
-![八方向寻路](img/2.png)
-![四方向寻路](img/3.png)
+![地图编辑](https://github.com/hlxxiang/MapEditor/blob/main/img/1.png)
+![八方向寻路](https://github.com/hlxxiang/MapEditor/blob/main/img/2.png)
+![四方向寻路](https://github.com/hlxxiang/MapEditor/blob/main/img/3.png)
