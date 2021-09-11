@@ -42,6 +42,6 @@
 
 
 
-![alt](img/1.png)
-![alt](img/2.png)
-![alt](img/3.png)
+![alt 地图编辑](img/1.png)
+![alt 八方向寻路](img/2.png)
+![alt 四方向寻路](img/3.png)
